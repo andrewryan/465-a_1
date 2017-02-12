@@ -78,6 +78,7 @@ class LinkedList(object):
             cur_node = cur_node.next
         return count
 
+
 # # !!! TESTING - REMOVE WHEN DONE !!!
 # ll = LinkedList()
 # ll.insert(1)
